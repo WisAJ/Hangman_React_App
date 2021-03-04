@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0.227328431372549) 50%, rgba(252,176,69,1) 100%);
+  background-position: center;
+  background-repeat:  no-repeat;
+ max-width:70%;
+ margin: 0 auto;
+}
